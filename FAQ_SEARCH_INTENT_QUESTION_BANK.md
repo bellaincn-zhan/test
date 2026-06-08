@@ -217,6 +217,7 @@ For a professional lead-generation FAQ, the biggest improvement is to convert ea
 
 ### Import Documents
 
+- **P1:** How do I import motorcycles from China?
 - **P1:** What documents are needed to import motorcycles from China?
 - **P1:** What documents should a motorcycle supplier provide before shipment?
 - **P1:** Do I need a commercial invoice, packing list, bill of lading, and certificate of origin?
@@ -481,6 +482,7 @@ For a professional lead-generation FAQ, the biggest improvement is to convert ea
 
 ### Cost, Tax & Container Loading Comparison
 
+- **P1:** What is the difference between CKD, SKD, and CBU motorcycles?
 - **P1:** Which is cheaper: CKD, SKD, or CBU motorcycle import?
 - **P1:** How do I calculate total landed cost for imported motorcycles?
 - **P1:** How many motorcycles can fit in a 40HQ container by CKD, SKD, and CBU?
@@ -907,6 +909,7 @@ For a professional lead-generation FAQ, the biggest improvement is to convert ea
 
 ### Container Loading Quantity
 
+- **P1:** How many motorcycles fit in a 40HQ container?
 - **P1:** How many motorcycles fit in a 20ft, 40ft, or 40HQ container?
 - **P1:** How many CKD, SKD, or CBU motorcycles fit in a 40HQ container?
 - **P2:** How does model size affect motorcycle container loading quantity?
