@@ -12,4 +12,9 @@ If you are browsing on GitHub and cannot see the new files yet, switch to the `c
 
 - [Static FAQ page](index.html): browser-friendly FAQ Center page.
 - [FAQ Center](FAQ_CENTER.md): full FAQ taxonomy and topic hierarchy.
+- [FAQ Search-Intent Question Bank](FAQ_SEARCH_INTENT_QUESTION_BANK.md): professional B2B FAQ questions rewritten around buyer search intent from Google-style, AI-answer, forum, and importer discussion patterns.
 - [FAQ Content Guide](FAQ_CONTENT_GUIDE.md): URL structure, content model, article templates, writing guidelines, rollout priorities, and sample FAQ drafts.
+
+## Content Recommendation
+
+Use `FAQ_CENTER.md` as the category structure, then use `FAQ_SEARCH_INTENT_QUESTION_BANK.md` for final article titles and page topics. Search-facing FAQ pages should be written as natural buyer questions instead of short topic labels.

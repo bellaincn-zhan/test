@@ -6,6 +6,26 @@ This guide explains how to turn the FAQ Center taxonomy into publishable FAQ art
 
 The FAQ Center should help international motorcycle buyers answer practical pre-sales, import, compliance, customization, shipping, quality, and after-sales questions. Each article should be written for B2B buyers such as importers, distributors, fleet operators, dealers, and OEM/ODM partners.
 
+## Search-Intent Rule
+
+Use `FAQ_CENTER.md` for the site structure, but use `FAQ_SEARCH_INTENT_QUESTION_BANK.md` for final FAQ page titles. Public-facing FAQ titles should be complete buyer questions, not short topic labels.
+
+Good final FAQ titles:
+
+- How do I import motorcycles from China?
+- What is the difference between CKD, SKD, and CBU motorcycles?
+- How many motorcycles fit in a 40HQ container?
+- What spare parts should I order with motorcycles?
+- Are Chinese motorcycles reliable for commercial use?
+
+Avoid using topic labels as final article titles:
+
+- Import Documents
+- CKD Definition
+- Spare Parts Supply
+- Engine Displacement
+- Supplier Selection
+
 ## Recommended URL Structure
 
 Use short, descriptive, lowercase slugs. Keep one stable URL per final FAQ topic.
@@ -31,7 +51,7 @@ Each FAQ topic should include these fields:
 
 | Field | Purpose |
 | --- | --- |
-| `title` | Human-readable page title. |
+| `title` | Search-facing buyer question used as the H1. |
 | `slug` | Stable URL slug. |
 | `section` | Top-level FAQ section. |
 | `group` | Parent FAQ group. |
@@ -82,6 +102,8 @@ Use this structure for each FAQ topic page:
 ## Writing Guidelines
 
 - Write for importers and distributors, not retail consumers only.
+- Start from the buyer's search query. Use question formats such as "How do I...", "What documents...", "How much...", "Which is better...", "Do I need...", and "Can I...".
+- Answer the question in the first paragraph so the page works well for Google snippets and AI answer engines.
 - Mention regional regulations carefully; advise buyers to confirm local rules before import.
 - Prefer practical trade language: MOQ, FOB, CIF, CKD, SKD, CBU, homologation, spare parts, warranty, and after-sales support.
 - Keep the short answer concise and make the detailed answer actionable.
